@@ -1,5 +1,7 @@
 # squash-rebase-merge
 
-Adding a line.
 Buy coffee beans!
-Call your parents!
+Call yo mother!
+Don't forget to make some examples!
+
+Last line.
