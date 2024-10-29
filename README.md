@@ -1,7 +1,7 @@
 # squash-rebase-merge
 
 Make french press coffee!
-Call yo mother!
+Call yo mother!!!
 Rebase time baby!
 
 Last line.
