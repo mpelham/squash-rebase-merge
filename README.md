@@ -1,5 +1,5 @@
 # squash-rebase-merge
 
 Buy coffee beans!
-Call your parents!
+Call yo mother!
 Don't forget to make some examples!
