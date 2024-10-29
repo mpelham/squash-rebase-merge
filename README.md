@@ -1,7 +1,7 @@
 # squash-rebase-merge
 
-Buy coffee beans!
+Make french press coffee!
 Call yo mother!
-Don't forget to make some examples!
+Rebase time baby!
 
 Last line.
